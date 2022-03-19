@@ -5,11 +5,27 @@ public class FirstClass {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter data");
-        int marks = scanner.nextInt();
-        String name = scanner.next();
-        int x = 2;
-        int y = 3;
-//        if (marks >= 10 && marks <= 50) {
+//        int marks = scanner.nextInt();
+        int time = scanner.nextInt();
+
+
+        if (time <= 10) {
+            System.out.println("good morning");
+        }
+        else if (time <= 20)
+        {
+            System.out.println("Good afternoon");
+        } else
+        {
+            System.out.println("Good nyt");
+        }
+
+//        String name = scanner.next();
+//        int x = 2;
+//        int y = 3;
+
+
+////        if (marks >= 10 && marks <= 50) {
 //
 //            if (marks >= 33) {
 //                System.out.println("Pass");
@@ -31,12 +47,11 @@ public class FirstClass {
 //        } else {
 //            System.out.println("sid");
 //        }
-
-        if (x == 2) {
-            if (y == 3) {
-                System.out.println("x = 2 and y= 3");
-            }
-        }
-
+//
+//        if (x == 2) {
+//            if (y == 3) {
+//                System.out.println("x = 2 and y= 3");
+//            }
+//        }
     }
-}
+    }
