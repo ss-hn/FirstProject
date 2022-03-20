@@ -8,17 +8,18 @@ public class FirstClass {
 //        int marks = scanner.nextInt();
         int time = scanner.nextInt();
 
+//        ............................OR operator..................
+//        if (time == 10 || time == 12) {
+//            System.out.println("and is working fine");
+//
+//        } else
+//        {
+//            System.out.println(" And operator is working not fine");
+//
+//        }
+
         //.................. if else if.................
-        if (time <= 10) {
-            System.out.println("good morning");
-        }
-        else if (time <= 20)
-        {
-            System.out.println("Good afternoon");
-        } else
-        {
-            System.out.println("Good nyt");
-        }
+
 
 //        String name = scanner.next();
 //        int x = 2;
