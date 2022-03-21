@@ -5,8 +5,61 @@ public class FirstClass {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter data");
+
+
+
+
+        //int time = 17;
+        //int day = 2;
 //        int marks = scanner.nextInt();
-        int time = scanner.nextInt();
+//        int time = scanner.nextInt();
+
+        //.....................switch statement..............
+//        switch (time){
+//            case 1:
+//            System.out.println("10AM");
+//            break;
+//            case 2:
+//                System.out.println("11AM");
+//                break;
+//            case 3:
+//                System.out.println("12AM");
+//                break;
+//            case 4:
+//                System.out.println("13AM");
+//                break;
+//            case 5:
+//                System.out.println("14AM");
+//                break;
+//            default:{
+//                System.out.println("22AM");
+//            }
+//
+//        }
+
+        //..................switch ................
+
+//        switch (day) {
+//
+//            case 1:
+//            System.out.println("Saturday");
+//            break;
+//
+//            case 2:
+//            System.out.println("tuesday");
+//
+//            ;
+//        }
+
+
+//        ..........Not equal to operator...........
+//        int x = 5;
+//        int y = 3;
+//        {
+//        System.out.println(x != y); // returns true because 5 is not equal to 3
+//    }
+
+
 
 //        ............................OR operator..................
 //        if (time == 10 || time == 12) {
