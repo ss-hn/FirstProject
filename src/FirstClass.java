@@ -7,8 +7,12 @@ public class FirstClass {
         System.out.println("Enter data");
 
 
+        int x = 2;
+        int y = 2;
+        int Z = x+y;
 
-
+//        System.out.println(x + y);
+        int z = scanner.nextInt();
         //int time = 17;
         //int day = 2;
 //        int marks = scanner.nextInt();
@@ -60,7 +64,6 @@ public class FirstClass {
 //    }
 
 
-
 //        ............................OR operator..................
 //        if (time == 10 || time == 12) {
 //            System.out.println("and is working fine");
@@ -78,7 +81,7 @@ public class FirstClass {
 //        int x = 2;
 //        int y = 3;
 
-       // .......................... nest if........................................................
+        // .......................... nest if........................................................
 ////        if (marks >= 10 && marks <= 50) {
 //
 //            if (marks >= 33) {
@@ -108,4 +111,4 @@ public class FirstClass {
 //            }
 //        }
     }
-    }
+}
