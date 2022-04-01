@@ -6,7 +6,6 @@ public class FirstClass {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter data");
 
-
         int x = 2;
         int y = 2;
         int Z = x+y;
@@ -17,6 +16,7 @@ public class FirstClass {
         //int day = 2;
 //        int marks = scanner.nextInt();
 //        int time = scanner.nextInt();
+
 
         //.....................switch statement..............
 //        switch (time){
